@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to build a website linking to several recipes on the internet. After completing this project, I'll get a better understanding of building a website and its layouts, as well as the use of elements to hyperlink texts.
